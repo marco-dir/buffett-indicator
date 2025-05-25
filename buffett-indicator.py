@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Titolo e descrizione
-st.title("📊 Buffett Indicator - Analisi in Tempo Reale")
+st.title("Buffett Indicator - Analisi in Tempo Reale")
 st.markdown("""
 Il **Buffett Indicator** è un rapporto che confronta la capitalizzazione totale 
 del mercato azionario con il PIL di un paese. È considerato uno strumento utile 
